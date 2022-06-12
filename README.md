@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishabh Shukla
 - 👀 I’m interested in Java, Android and Web Development
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : rishabhxshukla@gmail.com
 
