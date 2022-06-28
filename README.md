@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, my name is Rishabh Shukla<br>
-🌱 I’m currently learning Data Science<br>
+🌱 I’m currently learning Data Science & French<br>
 🔭 I’m currently working on Android Development<br>
 👯 I’m looking to collaborate on Full stack projects<br>
 📫 How to reach me : rishabhxshukla@gmail.com
@@ -30,9 +30,3 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-
-
-# 📊 My Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhxshukla&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
-[![](https://visitcount.itsvg.in/api?id=rishabhxshukla&icon=0&color=0)](https://visitcount.itsvg.in)
