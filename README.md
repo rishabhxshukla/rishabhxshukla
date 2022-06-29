@@ -1,8 +1,9 @@
 # 💫 About Me:
-👋 Hi, my name is Rishabh Shukla<br>
-🌱 I’m currently learning Data Science & French<br>
-🔭 I’m currently working on Android Development<br>
-👯 I’m looking to collaborate on Full stack projects<br>
+👋 Hi, my name is Rishabh Shukla <br>
+💻 I like working on Java, Android and Web development <br>
+🌱 I’m currently learning Data Science & French <br>
+📱 I’m currently working on Android Development <br>
+🔭 I’m looking to collaborate on MERN Stack projects <br>
 📫 How to reach me : rishabhxshukla@gmail.com
 
 
