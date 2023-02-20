@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
-<img align="right" src="https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif" height=340>
+<img align="right" src="https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif" height=335>
 
 # ★ About Me:
 
