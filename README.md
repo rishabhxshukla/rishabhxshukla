@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
-<h3 align="center">A Data Science Enthusiast</h3>
 <img align="right" src="https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif" height=320>
 
 # ★ About Me:
+
+I'm an avid enthusiast deeply immersed in the exciting world of development and data science.
+But hey, that's not all! Je parle français too, because learning French is my hobby.
+And, when it's time to unwind, I'm all about binge-watching the coolest shows on Netflix.😄
 
 - 💻 I like working on **Java, React and Flutter**
 
