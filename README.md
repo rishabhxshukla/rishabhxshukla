@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
-<img align="right" src="https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif" height=320>
+<img align="right" src="https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif" height=300px>
 
 # ★ About Me:
 
