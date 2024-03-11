@@ -1,5 +1,5 @@
 <h1 align="center">👋 Bonjour à tous</h1>
-<img align="right" src="https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif" height=300px>
+<img align="right" src="https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif" height=280px>
 
 # ★ About Me:
 
