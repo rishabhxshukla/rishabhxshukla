@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rishabh</h1>
+<h1 align="center">👋 Bonjour à tous</h1>
 <img align="right" src="https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif" height=300px>
 
 # ★ About Me:
 
-- 💻 I like working on **Java, React and Flutter**
+- 👨🏻‍💻 I like working on **Advanced Java, MERN, Flutter**
 
 - 🌱 I’m currently learning **Data Science & French**
 
 - 📱 I’m currently working on **Mobile App Development**
 
-- 🔭 I’m looking to collaborate on **React and Flutter projects**
-
-- 📫 How to reach me **rishabhxshukla@gmail.com**
+- 📫 You can reach me at : **rishabhxshukla@gmail.com**
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------>
 
